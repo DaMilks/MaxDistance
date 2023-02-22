@@ -22,7 +22,7 @@
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{7a101785-6373-4fb8-ab24-bbdcd48d445c}</ProjectGuid>
-    <RootNamespace>LabaGorelova</RootNamespace>
+    <RootNamespace>MaxDistance</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
     <ProjectName>MaxDistance</ProjectName>
   </PropertyGroup>
